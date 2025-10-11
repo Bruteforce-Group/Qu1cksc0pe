@@ -1,5 +1,5 @@
 # Create environment
-FROM ubuntu:latest
+FROM ubuntu:24.04
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Europe/Istanbul
 
